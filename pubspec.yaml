@@ -4,15 +4,15 @@ version: 1.1.6
 homepage: https://github.com/seel-channel/helpers
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=3.0.3"
 
 dependencies:
   flutter:
     sdk: flutter
-  vector_math: ^2.1.0
+  vector_math: ^2.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lint: ^1.8.1
+  lint: ^1.10.0
